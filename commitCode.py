@@ -12,21 +12,21 @@ p1 = c(com1c.split())
 
 print "-------------------------------"
 
-sleep(2)
+#sleep(2)
 p2 = p(com2p.split())
 p2.wait()
 
 print "-------------------------------"
 
-sleep(2)
+#sleep(2)
 p3 = c(com3c.split())
 
 print "-------------------------------"
 
-sleep(2)
+#sleep(2)
 p4 = c(com4c.split())
 
 print "-------------------------------"
 
-sleep(2)
+#sleep(2)
 p5 = c(com5c.split())
